@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/7624.html</loc>
+    <loc>https://www.bluestudio.top/posts/7624.html</loc>
     
     <lastmod>2022-12-19</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://www.bluestudio.top/link/index.html</loc>
     
     <lastmod>2022-12-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://www.bluestudio.top/categories/index.html</loc>
     
     <lastmod>2022-12-19</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://www.bluestudio.top/tags/index.html</loc>
     
     <lastmod>2022-12-19</lastmod>
     
@@ -38,16 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
-    
-    <lastmod>2022-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://www.bluestudio.top/manifest.json</loc>
     
     <lastmod>2022-12-19</lastmod>
     
@@ -57,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://www.bluestudio.top/</loc>
     <lastmod>2022-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,14 +56,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E9%80%86%E8%A2%ADStrategy/</loc>
+    <loc>https://www.bluestudio.top/tags/%E9%80%86%E8%A2%ADStrategy/</loc>
     <lastmod>2022-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%A4%A7%E5%AD%A6%E4%B8%89%E5%B9%B4/</loc>
+    <loc>https://www.bluestudio.top/tags/%E5%A4%A7%E5%AD%A6%E4%B8%89%E5%B9%B4/</loc>
     <lastmod>2022-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -81,7 +72,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://www.bluestudio.top/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
