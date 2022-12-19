@@ -6,7 +6,7 @@
   <link href="https://www.bluestudio.top/atom.xml" rel="self"/>
   
   <link href="https://www.bluestudio.top/"/>
-  <updated>2022-12-19T15:10:49.131Z</updated>
+  <updated>2022-12-19T15:48:28.441Z</updated>
   <id>https://www.bluestudio.top/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.bluestudio.top/posts/7624.html"/>
     <id>https://www.bluestudio.top/posts/7624.html</id>
     <published>2022-12-19T14:40:42.000Z</published>
-    <updated>2022-12-19T15:10:49.131Z</updated>
+    <updated>2022-12-19T15:48:28.441Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>希望此篇文章能够带给自己对大学生活不一样的认识，能够面对更多挑战</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>希望此篇文章能够带给自己对大学生活不一样的认识，能够面对更多挑战</p><p>git add .<br>git commit -m “github action update”<br>git push origin main   </p>]]></content>
     
     
       
